@@ -6,6 +6,11 @@ BingeWatcher's Twitter: a project under WOC4.0 by MSTC, DAIICT!
 
 
 **checkpoint-1:**
+
+  To run, 
+  - `cd front-end` 
+  - `npm install`
+  - `npm start`
   
   Routes:
   - path = "/" loads list of tweets 
@@ -17,6 +22,7 @@ BingeWatcher's Twitter: a project under WOC4.0 by MSTC, DAIICT!
   - path = "/trending" loads the interface developed for TMDB API.
       - it can fetch trending movies, tv series or actors (weekly/daily)
       - uses Axios lib to make http GET request 
+  
     ![Screenshot](/screenshots/bt2.PNG)
   
 
