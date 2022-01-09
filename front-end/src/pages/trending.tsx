@@ -92,7 +92,7 @@ class Trending extends Component <MyProps, MyState>{
                     onClick = {() => {
                         this.fetchPerson(this.state.period);
                     }}/>
-                    <label className="btn btn-outline-primary" htmlFor="btnradio3">Person</label>
+                    <label className="btn btn-outline-primary" htmlFor="btnradio3">People</label>
                 </div>
             </Row>
 
